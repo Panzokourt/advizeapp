@@ -1,1 +1,5 @@
-# Backend dependencies
+fastapi
+uvicorn
+pydantic[email]
+sqlalchemy
+aiosqlite
